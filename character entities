@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>style colors</title>
+</head>
+<body> 
+<h1 style="color:Blue;">This is the heading</h1>
+<p style="color:Red;">presidency&amp;university&lt;</p> 
+ <h1 style="font-family:verdana">Hello World</h1>
+<p style="font-family:courier;">School&yen; of engineering&amp;</p>
+<p style="font-size:300%;">?&lt;computer &cent;science &amp;engineering&cent;</p> 
+<h1 style="font-size:160%;">ece</h1>
+<h1 style="text-align:center;">eee</h1>
+<h1 style="text-align:center;">mech</h1>
+<h1 style="font-size:160%;">civil</h1>
+<h1 style="font-size:160%;"></h1>
+</body>
+</html>
