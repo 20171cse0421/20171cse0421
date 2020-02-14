@@ -1,0 +1,13 @@
+<html>
+<head><title>NESTED FRAMES</title>
+<frameset cols="40%,*">
+<frameset rows="20%,35%,*">
+<frame src="/home/Sem6B7/Desktop/421/quote">
+<frame src="/home/Sem6B7/Desktop/421/quote">
+</frameset>
+<frameset rows="20%,35%,*">
+<frame src="/home/Sem6B7/Desktop/421/quote">
+<frame src="/home/Sem6B7/Desktop/421/quote">
+</frameset>
+</frameset>
+</html>
