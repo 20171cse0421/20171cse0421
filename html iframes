@@ -1,0 +1,14 @@
+
+<html>
+<head>
+<title>HTML Iframes</title>
+</head>
+<body>
+<p>Document content goes here...</p>
+<iframe src="/home/Sem6B7/Desktop/workplace.jpg" name="iframe_a"width="555" height="500"></iframes>
+
+sorry your browser does not support inline frames.
+</iframe>
+<p>Document content also go here...</p>
+</body>
+</html>
