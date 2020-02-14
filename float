@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>FLOAT </title>
+</head>
+<body>
+<h1>The float Property</h1>
+<img src="/home/Sem6B7/Desktop/workplace.jpg" alt="computer" style="float:right;width:170px;height:170px"/>
+<p>To create an image map you need an image, and a map containing some rules that describe the clickable areas</p> 
+</body>
+</html>
