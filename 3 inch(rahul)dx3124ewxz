@@ -1,0 +1,16 @@
+<html>
+<head>
+<link rel="stylesheet"type="text/css" href="/home/Sem6B7/Desktop/421/css">
+<style>
+h1{color:yellow;font-size=45pt}
+</style>
+</head>
+<body>
+<h1 style="color:red;font-size=40pt">paragraph 1 in the div.</h1>
+<p style="color:blue;font-size=15pt">paragraph 2 in the div.</p>
+<h1><p>paragraph 3 in the div.</p></h1>
+<p>paragraph 4 in the div.</p>
+<p>paragraph 5 in the div.</p>
+</body>
+</html>
+

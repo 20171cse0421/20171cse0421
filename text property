@@ -1,0 +1,24 @@
+<html>
+<head><title>Font properties</title>
+<style type="text/css">
+.big{
+background-color:yellow;
+color:red;
+direction:ltr;
+letter-spacing:5px;
+text-indent:1cm;
+word-spacing:5px;
+font-size:200%;
+text-decoration:purple wavy overline;
+text-shadow:20px 20px 20px red;
+text-align:right;
+}
+</style>
+</head>
+<body>
+<p class=big >presidencyuniversity</p> 
+<p class=big style="color:black;text-decoration:underline;">presidencyuniversity</p> 
+<p class=big >presidencyuniversity</p> 
+<p class=big >presidencyuniversity</p> 
+ </body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+<head>
+</head>
+<style>
+a:link,a:visited{
+background-color:#f44336;
+color:color;
+padding:14px 25px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+}
+a:hover,a:active{
+background-color:green;}
+</style>
+<body>
+<a href="pseudo.html">presidency university</a>
+<a href="border_style.html">presidency university</a>
+<a href="height_width.html">presidency university</a>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<title>list</title>
+</head>
+<body bgcolor="red">
+<a href="https://en.wikipedia.org/wiki/England #mw-navigation"><img src="/home/Sem6B7/Desktop/index.jpeg"/></a>
+<h1>Unordered list</h1>
+<ul type="square">
+<li>item1</li>
+<li>item2</li>
+<li>item3</li>
+<li>item4</li>
+</ul>
+<h1>Ordered list</h1>
+<ol type="I" start="1">
+<li>item1</li>
+<li>item1</li>
+<li>item1</li>
+<li>item1</li>
+</ol>
+<h1>Definition list</h1>
+<dl>
+<dt>HTML:</dt>
+<dd>Hyper text markup language</dd>
+<dt>DOG:</dt>
+<dd>A humans best friend!</dd>
+</dl>
+<h1 align="center">SAFETY TIPS FOR</h1>
+<ol type="a"START="2">
+<li>be able to swim</li>
+<li>wear a life jacket at all the times</li>
+<li>dont stand up or move arround.if canoe tips,
+<ul>
+<li>hang on to the canoe</li>
+<li>use the canoe for the support and </li>
+<li>swim to shore</ul></li>
+<li>dont overexert yourself</li>
+<li>use a bow light at night</li>
+</ol>
+<h1 align="center">Table:</h1>
+<table border="1" width=50% bgcolor="blue" cellspacing="5" cellpadding="5" BorderColor="black">
+<caption align="bottom">Label for my table</caption>
+<tr>
+<th>column 1 header</th>
+<th>column 2 header</th>
+</tr>
+<tr>
+<td>row1,col1</td>
+<td>row1,col2</td>
+</tr>
+<tr>
+<td>row2,col1</td>
+<td>row2,col2</td>
+</tr>
+</table>
+</body>
+</html>
+

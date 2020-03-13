@@ -1,0 +1,31 @@
+<html>
+<head>
+</head>
+<style>
+a.one{
+color:green;
+padding:14px 25px;
+text-align:center;
+display:inline-block;
+}
+a.two{
+color:black;
+border:2px solid green;
+background-color:green;
+}
+a.three{
+background-color:#f44336;
+color:red;
+border:2px solid green;
+padding:14px 25px;
+text-align:center;
+display:inline-block;
+}
+</style>
+<body>
+<a href="pseudo.html">Text Link</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a class=a.one href="border_style.html">Text Link</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a class=a.two href="height_width.html">Link BUTTON</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a class=a.three href="height_width.html">HOME</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+</body>
+</html>

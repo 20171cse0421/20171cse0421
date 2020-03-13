@@ -1,0 +1,31 @@
+<html>
+<head>
+</head>
+<style>
+a:link,a:visited{
+background-color:#f44336;
+color:color;
+padding:14px 25px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+}
+p:hover {
+display:inline-block;
+font-size:200%;
+}
+p:first-letter{color:green;font-size:200%;}
+p::first-line{color:red;}
+p::before{color:green;}
+</style>
+<body>
+
+<p class="first-line">welcome to presidency university iam mudasir of sec 6cse7</p>
+<p class="before">welcome to presidency university iam mudasir of sec 6cse7</p>
+<p class="first-line">welcome to presidency university iam mudasir of sec 6cse7</p>
+<p class="before">welcome to presidency university iam mudasir of sec 6cse7</p>
+<p>welcome to presidency university iam mudasir of sec 6cse7</p>
+
+</body>
+</html>
+

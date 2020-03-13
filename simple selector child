@@ -1,0 +1,18 @@
+<html>
+<head>
+<link rel="stylesheet"type="text/css"href="/home/Sem6B7/Desktop/421.css">
+<style>
+ p{ 
+color:green;
+font-size:45pt
+}
+</style>
+</head>
+<body>
+<h1 style="color:red;font-size:40pt">Welcome toCSS</h1>
+<p style="color:blue;font-size:15pt">Hello world!</p>
+<p>welcome to presidency university</p>
+<p>paragraph 1 in the div.</p>
+</body>
+</html>
+

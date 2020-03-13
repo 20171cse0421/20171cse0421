@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>CSS class selector</title>
+<style>
+h1,h2,p { 
+color:red;
+text-align:center;
+}
+</style>
+</head>
+<body>
+<p>A computer science portal.</p>
+<h2>smaller heading!</h2>
+<h1>welcome to presidency university</h1>
+</body>
+</html>
+

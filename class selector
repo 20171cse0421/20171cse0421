@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>CSS class selector</title>
+<style>
+.center { 
+color:red;
+text-align:center;
+}
+p.large { 
+font-size:300%;
+}
+</style>
+</head>
+<body>
+<p class="center">A computer science portal.</p>
+<p class="large">A computer science portal.</p>
+<p class="center large">welcome to presidency university</p>
+</body>
+</html>
+

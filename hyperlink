@@ -1,0 +1,21 @@
+<html>
+<head>
+</head>
+<style>
+p{
+background-color:yellow;
+}
+div:hover p{
+display:inline-block;
+}
+</style>
+<body>
+<div>
+<p>welcome to presidency university iam mudasir of sec 6cse7</p>
+<p>welcome to presidency university iam mudasir of sec 6cse7</p>
+<p>welcome to presidency university iam mudasir of sec 6cse7</p>
+<p>welcome to presidency university iam mudasir of sec 6cse7</p>
+<p>welcome to presidency university iam mudasir of sec 6cse7</p>
+</div>
+</body>
+</html>

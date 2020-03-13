@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>CSS class and generic selector</title>
+<style>
+#paral { 
+color:red;
+text-align:center;
+}
+</style>
+</head>
+<body>
+<p id ="paral">A computer science portal.</p>
+<p>A computer science portal.</p>
+<p id="paral">welcome to presidency university</p>
+</body>
+</html>
+

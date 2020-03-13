@@ -1,0 +1,53 @@
+<html>
+<head><title>border properties</title>
+<style>
+p.dotted{border-style:dotted;
+border-width:20px;
+border-color:red;}
+p.double{border-style:double;
+border-width:5px;
+border-color:yellow;
+}
+p.dashed{border-style:dashed;
+border-color:pink;}
+p.solid{border-style:solid;}
+p.groove{border-style:groove;
+border-color:blue;}
+p.ridge{border-style:ridge;}
+p.inset{border-style:inset;}
+p.outset{border-style:outset;}
+p.hidden{border-style:hidden;}
+p.none{border-style:none;}
+p.mix{border-style:mix;
+border-width:5px,2px,7px,3px;
+border-color:yellow,red,blue,green; 
+}
+p.top{margin-top:10px;
+border-color:blue;}
+p.right{margin-right:20px;
+border-color:green;}
+p.bottom{margin-bottom:10px;
+border-color:red;
+}
+p.left{margin-left:10px;
+border-color:yellow;}
+</style>
+</head>
+<body>
+<p class=dotted>This is the heading</p>
+<p class=double>presidencyuniversity</p> 
+ <p class=dashed>Hello World</p>
+<p class=solid>School of engineering</p>
+<p class=groove>computer science engineering</p> 
+<p class=ridge>ece</p>
+<p class=inset>mech</p>
+<p class=outset>presidencyuniversity</p>
+<p class=hidden>presidencyuniversity</p>
+<p class=none>presidencyuniversity</p>
+<p class=mix>computer science engineering</p>
+<p class=top>computer science engineering</p>
+<p class=bottom>computer science engineering</p>
+<p class=right>computer science engineering</p>
+<p class=left>computer science engineering</p>
+</body>
+</html>
