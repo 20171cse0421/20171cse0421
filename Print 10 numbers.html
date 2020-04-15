@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to demonstrate the prompt box.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+ var person = prompt("Please enter 10 numbers", "1234567890");
+  if (person != null) {
+    document.getElementById("demo").innerHTML =
+     " "+ person +" "
+  }
+}
+</script>
+
+</body>
+</html>
